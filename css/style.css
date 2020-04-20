@@ -1,0 +1,279 @@
+html{
+    font-size: 16px;
+}
+img{
+    height: 400px;
+    
+}
+nav{
+
+margin-bottom: 2rem !important;
+}
+li{
+    list-style: none;
+}
+a:hover{
+text-decoration: none;
+}
+iframe{
+    margin-top: 10rem;
+    margin-right: 10rem;
+}
+.card-img-top{
+    border-style:solid;
+    border-width:2em;
+    box-shadow: 0.5rem 1rem 1rem 0.5rem rgba(0,0,0,0.5), 0 0.7rem 2rem 0.5rem rgba(0,0,0,0.17);
+    border: solid;
+    border-color: oldlace;
+    overflow: hidden;
+    display: block;
+}
+.card-group-images{
+    float: right;
+	margin-top: 10rem;
+	padding-left: 2rem;
+	padding-right: 10rem;
+
+}
+.card-group-images-2{
+    overflow: hidden;
+    float: right;
+	margin-top: 10rem;
+	padding-left: 2rem;
+    padding-right: 10rem;
+    margin-left: 10rem;
+    
+}.contact-body{
+    font-family: serif;
+    font-style: Georgia;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.7;
+    color:rgb(37, 30, 30);
+    background:#f1f1f1;
+}
+#contact-container{
+	margin-top: 3rem;
+	padding-bottom: 2rem;
+	margin-right: 10rem;
+	padding-top: 2rem;
+	border-radius: 25px;
+    background:linear-gradient(#f8f9fa,#ffffff00);
+}
+#contact-footer{
+    position: fixed; 
+    left: 0; 
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+#contact-address{
+	float: right;
+	margin-top: 3rem;
+	padding-left: 2rem;
+	padding-right: 10rem;
+
+}
+.btn{
+    border:solid ;
+    border-color:#ced1d4 ;
+    border-width: .1rem;
+    background-color: #ffffff;
+    color: #8e8c8c;
+    border-radius: .1rem;
+    display: block;
+}
+.btn:hover{
+    background-color: rgb(241, 241, 241);
+    border:solid ;
+    border-color:#f8f9fa ;
+    border-width: .1rem;
+    color: #ffffff;
+}
+.news-letter{
+    margin-top: 5rem;
+    left: 0; 
+    bottom: 0;
+    width: 100%;
+    padding-bottom: 10rem;
+
+}
+.jumbotron{
+        background: rgba(0, 0, 0, 0);
+        margin-bottom: .5rem!important;
+        padding-bottom: .5rem!important;
+}
+.lead{
+    font-size: .8rem;
+}
+.btn-2{
+    margin-top: 1rem;
+}
+.mb-3{
+    padding-top: -2rem;
+}
+.service-container{
+    margin-bottom: 10rem;
+}
+.logo{
+    height: 3.5rem;
+    width: auto;
+    display: inline-block;
+    margin: 2rem 2rem 2rem 2rem;
+}
+.logo:hover{
+    animation-name:expand;
+    animation-duration: 2s;
+    transform: scale(1.25);
+    transition-duration: 1s;
+    transition: ease-in-out;
+}
+
+@keyframes expand{
+ 0% { opacity: .5; }
+
+  100% { opacity: 1; }
+}
+.table {
+	display: table;   
+	margin: 0 auto;
+}
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+}
+ul#horizontal-list li {
+		display: inline;
+}
+@media only screen and (max-width: 768px){
+    .table {
+        display: table;   
+        margin: 0 auto;
+    }
+    ul#horizontal-list {
+        min-width: 150px;
+        list-style: none;
+      
+    }
+    ul#horizontal-list li {
+            display: inline;
+    }
+    .logo{
+        height: 3.5rem;
+        width: auto;
+        margin: 1rem 1rem 1rem 1rem;
+    }
+}
+.card-img-top{
+    cursor: zoom-in;
+}
+#img-1{
+	display: none;
+}
+#img-2{
+	display: none;
+}
+#img-3{
+	display: none;
+}
+#img-4{
+	display: none;
+}
+#img-5{
+	display: none;
+}
+#img-6{
+	display: none;
+}
+#img-7{
+	display: none;
+}
+#img-8{
+	display: none;
+}
+#img-9{
+	display: none;
+}
+#img-10{
+	display: none;
+}
+#img-11{
+	display: none;
+}
+#img-12{
+	display: none;
+}
+#img-13{
+	display: none;
+}
+#img-14{
+	display: none;
+}
+#img-15{
+	display: none;
+}
+#img-16{
+	display: none;
+}
+#img-17{
+	display: none;
+}
+#img-18{
+	display: none;
+}
+#img-19{
+	display: none;
+}
+#img-20{
+	display: none;
+}
+#img-21{
+	display: none;
+}
+#img-22{
+	display: none;
+}
+#img-23{
+	display: none;
+}
+#img-25{
+	display: none;
+}
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(.1)} 
+    to {-webkit-transform:scale(.2)}
+    to {-webkit-transform:scale(.3)}
+    to {-webkit-transform:scale(.4)}
+    to{-webkit-transform:scale(.5)}
+    to{-webkit-transform:scale(6)}
+    to{-webkit-transform:scale(.7)}
+    to{-webkit-transform:scale(.8)}
+    to {-webkit-transform:scale(.9)}
+    to{-webkit-transform:scale(1)}
+  
+  } 
+.modal-image{
+    z-index:1;
+    height:50%;
+	width:50%;
+    margin:0 auto;
+    display:table;
+    position:fixed;
+    left: 0;
+    right:0;
+    top: 50%; 
+    border:1px solid;
+    -webkit-transform:translateY(-50%);
+    -moz-transform:translateY(-50%);
+    -ms-transform:translateY(-50%);
+    -o-transform:translateY(-50%);
+    transform:translateY(-50%);
+    animation-name: zoom;
+	animation-duration: 0.6s;
+	box-shadow: 0.5rem 1rem 1rem 0.5rem rgba(0,0,0,0.5), 0 .7rem 2rem 0.5rem rgba(0,0,0,0.17);
+	border: solid;
+    border-color: oldlace;
+    cursor: zoom-out;
+    animation-timing-function:ease-in-out;
+}
