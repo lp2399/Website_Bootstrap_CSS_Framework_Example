@@ -21,3 +21,4 @@ an emulation of the website on a smaller screen.  Bootstrap framework can be use
 and user friendly without having to start a webpage from scratch. 
 
 No SEO, as this is a project site.
+Contains minified js and css along with regular. Also for the js there must be an easier way than the way I did it Im still learning.
