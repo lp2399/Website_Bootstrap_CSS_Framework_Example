@@ -1,5 +1,4 @@
-# First-Repo
-Simple Bootstrap Website
+# Simple Bootstrap Website
 
 Bootstrap 4 is a free and open-source CSS framework used for designing mobile first responsive websites. 
 I will also be creating a simple website in HTML using Bootstrap 4 framework. The webpage begins with a user-friendly 
