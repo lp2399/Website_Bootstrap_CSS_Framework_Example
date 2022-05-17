@@ -12,8 +12,5 @@ Bootstrap is developed for mobile-first web applications, optimizing the design 
 the design using CSS media queries to creates a responsive design for larger screens such as tablets, monitors and large display screens. 
 To make sure that proper screen adjustment is met, the viewport meta tag needs to be added to the <head> section of your 
 HTML code <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no",>
-Creating a simple but responsive page is made easy and fast using Bootstrap. The index.html page is an example of a simple responsive landing page that includes a Navigation Bar, a fluid Jumbotron heading, and a gallery of images.Bootstrap framework can be used to create many web designs that are visually aesthetic 
-and user friendly without having to start a webpage from scratch. 
+Creating a simple but responsive page is made easy and fast using Bootstrap. The index.html page is an example of a simple responsive landing page that includes a Navigation Bar, a fluid Jumbotron heading, and a gallery of images.Bootstrap framework can be used to create many web designs that are visually aesthetic and user friendly without having to create a webpage from scratch. 
 
-No SEO, as this is a project site.
-Contains minified js and css along with regular. Also for the js there must be an easier way than the way I did it Im still learning.
